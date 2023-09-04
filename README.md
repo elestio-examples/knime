@@ -11,8 +11,6 @@ This comes with several softwares pre-installed:
 
 All the data is persisted in ./data on the host.
 
-Audio is working as well! (thanks to PulseAudio + ffmpeg + jsmpeg + websockets)
-
 <br/>
 <img src="screenshots/knime.png" alt="Ubuntu Desktop in docker - Apps" width="100%" />
 <br/>
