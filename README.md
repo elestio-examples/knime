@@ -5,8 +5,8 @@
 Example CI/CD pipeline showing how to deploy Knime to elestio.
 
 This comes with several softwares pre-installed:
-
-- Chrome
+- Knime Analytics
+- Chrome web browser
 - Wine (Windows compatibility, you can install/run any windows program)
 
 All the data is persisted in ./data on the host.
