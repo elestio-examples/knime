@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=5.1
+Name=Knime
+# Only KDE 4 seems to use GenericName, so we reuse the KDE strings.
+# From Ubuntu's language-pack-kde-XX-base packages, version 9.04-20090413.
+# Gnome and KDE 3 uses Comment.
+Comment=Launch Knime Analytics
+Exec=/opt/knime/knime %U
+StartupNotify=true
+Terminal=false
+Icon=/opt/knime/icon.xpm
+Type=Application
